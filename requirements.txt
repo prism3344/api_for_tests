@@ -6,3 +6,4 @@ datetime
 passlib
 pydantic
 typing
+pydantic[email]
