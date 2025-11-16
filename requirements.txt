@@ -7,3 +7,4 @@ passlib
 pydantic
 typing
 pydantic[email]
+python-multipart
